@@ -28,6 +28,9 @@
   ],
   "author": "",
   "license": "ISC",
+  "overrides": {
+    "protobufjs": "^7.5.4"
+  },
   "devDependencies": {
     "@coral-xyz/borsh": "^0.30.1",
     "@rollup/plugin-commonjs": "^26.0.1",
